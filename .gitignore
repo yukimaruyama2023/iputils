@@ -7,4 +7,3 @@ core
 .gdb_history
 .gdbinit
 # Meson build
-/* /builddir */
